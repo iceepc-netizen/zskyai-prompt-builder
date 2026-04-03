@@ -1,0 +1,45 @@
+{
+  "name": "zskyai-prompt-builder",
+  "version": "1.0.0",
+  "description": "Interactive CLI prompt builder for AI image generation. Generate creative, detailed prompts for any AI image platform.",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "zskyai-prompt": "./index.js",
+    "prompt-builder": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js --random"
+  },
+  "keywords": [
+    "ai",
+    "image-generation",
+    "prompt",
+    "prompt-engineering",
+    "stable-diffusion",
+    "midjourney",
+    "dall-e",
+    "zsky-ai",
+    "cli",
+    "creative"
+  ],
+  "author": "ZSky AI <hello@zsky.ai>",
+  "license": "MIT",
+  "homepage": "https://zsky.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zskyai/zskyai-prompt-builder"
+  },
+  "bugs": {
+    "url": "https://github.com/zskyai/zskyai-prompt-builder/issues"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "clipboardy": "^4.0.0",
+    "inquirer": "^9.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
