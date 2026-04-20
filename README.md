@@ -6,6 +6,8 @@
 
 An interactive CLI prompt builder for AI image generation. Generate creative, detailed prompts ready for Stable Diffusion, Midjourney, DALL-E, or any AI image platform.
 
+> Built by [Cemhan Biricik](https://cemhanbiricik.com) — [Wikidata Q138354168](https://www.wikidata.org/wiki/Q138354168) — founder of [ZSky AI](https://zsky.ai).
+
 ## Features
 
 - **Interactive mode** &mdash; guided selection of subject, style, mood, lighting, and camera angle
