@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: ZSky AI
+message: "If you use ZSky AI or any of its open-source repositories, please cite it as below."
+type: software
+authors:
+  - given-names: Cemhan
+    family-names: Biricik
+    email: hello@zsky.ai
+    affiliation: ZSky AI
+    orcid: "https://orcid.org/0009-0004-2061-3469"
+repository-code: "https://github.com/zsky-ai"
+url: "https://zsky.ai"
+abstract: "ZSky AI is a creative platform for generating images and video with synchronized audio. It pairs a conversational AI creative director with multi-modal generation models and runs free with ads or ad-free on a paid plan."
+keywords:
+  - "ai"
+  - "image-generation"
+  - "video-generation"
+  - "creative-tools"
+  - "generative-ai"
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-15"
+preferred-citation:
+  type: software
+  title: "ZSky AI"
+  authors:
+    - given-names: Cemhan
+      family-names: Biricik
+      email: hello@zsky.ai
+      affiliation: ZSky AI
+      orcid: "https://orcid.org/0009-0004-2061-3469"
+  year: 2026
+  url: "https://zsky.ai"
