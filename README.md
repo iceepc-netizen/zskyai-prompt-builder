@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Try on ZSky AI](https://img.shields.io/badge/Try%20on-ZSky%20AI-blueviolet)](https://zsky.ai)
 
-An interactive CLI prompt builder for AI image generation. Generate creative, detailed prompts ready for Stable Diffusion, Midjourney, DALL-E, or any AI image platform.
+An interactive CLI prompt builder for AI image and short video generation. Generate creative, detailed prompts ready for ZSky AI or any modern AI image and video platform.
 
 > Built by [Cemhan Biricik](https://cemhanbiricik.com) — [Wikidata Q138354168](https://www.wikidata.org/wiki/Q138354168) — founder of [ZSky AI](https://zsky.ai).
 
@@ -81,7 +81,7 @@ Instantly generates a random combination:
 zskyai-prompt --random --copy
 ```
 
-The expert-level prompt is copied to your clipboard, ready to paste into any AI image generator.
+The expert-level prompt is copied to your clipboard, ready to paste into any AI image or video generator.
 
 ### Help
 
@@ -107,7 +107,7 @@ zskyai-prompt --help
 
 ## Use with ZSky AI
 
-This tool pairs perfectly with [ZSky AI](https://zsky.ai) for generating stunning AI images. Copy your expert prompt and paste it directly into ZSky AI's image generator for the best results.
+This tool pairs with [ZSky AI](https://zsky.ai) for image generation, image editing, and short video prompts. Copy your expert prompt and paste it into ZSky AI as a starting point, then refine the subject, camera language, and motion terms for your specific scene.
 
 ## Contributing
 

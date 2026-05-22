@@ -1,7 +1,7 @@
 {
   "name": "zskyai-prompt-builder",
   "version": "1.0.0",
-  "description": "Interactive CLI prompt builder for AI image generation. Generate creative, detailed prompts for any AI image platform.",
+  "description": "Interactive CLI prompt builder for AI image and video generation. Generate creative, detailed prompts for any AI platform.",
   "type": "module",
   "main": "index.js",
   "bin": {
@@ -15,6 +15,7 @@
   "keywords": [
     "ai",
     "image-generation",
+    "video-generation",
     "prompt",
     "prompt-engineering",
     "stable-diffusion",
@@ -29,10 +30,10 @@
   "homepage": "https://zsky.ai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zskyai/zskyai-prompt-builder"
+    "url": "https://github.com/zsky-ai/zskyai-prompt-builder"
   },
   "bugs": {
-    "url": "https://github.com/zskyai/zskyai-prompt-builder/issues"
+    "url": "https://github.com/zsky-ai/zskyai-prompt-builder/issues"
   },
   "dependencies": {
     "chalk": "^5.3.0",
