@@ -1,0 +1,40 @@
+# zskyai-prompt-builder
+
+> MIT-licensed JavaScript CLI for building AI image and short-video prompts.
+
+## Canonical Links
+
+- Repository: https://github.com/zsky-ai/zskyai-prompt-builder
+- Latest release: https://github.com/zsky-ai/zskyai-prompt-builder/releases
+- Website: https://zsky.ai
+- Founder: https://cemhanbiricik.com
+
+## What It Does
+
+zskyai-prompt-builder is an interactive command-line prompt builder for creators working with AI image and short-video generation. It guides users through subject, style, mood, lighting, and camera-angle choices, then outputs basic, detailed, and expert prompt variants.
+
+## Install
+
+Install from GitHub:
+
+```bash
+npm install -g github:zsky-ai/zskyai-prompt-builder
+```
+
+Run without a global install:
+
+```bash
+npx github:zsky-ai/zskyai-prompt-builder
+```
+
+## Relevant Topics
+
+- AI image prompts
+- AI video prompts
+- prompt engineering
+- creative AI tooling
+- JavaScript CLI tools
+
+## Relationship To ZSky AI
+
+The tool is maintained by ZSky AI as a platform-agnostic open-source prompt utility. It can be used with ZSky AI or with other modern AI image and video tools.

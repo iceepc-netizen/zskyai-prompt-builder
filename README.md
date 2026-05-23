@@ -1,6 +1,6 @@
 # zskyai-prompt-builder
 
-[![npm version](https://img.shields.io/npm/v/zskyai-prompt-builder.svg)](https://www.npmjs.com/package/zskyai-prompt-builder)
+[![GitHub release](https://img.shields.io/github/v/release/zsky-ai/zskyai-prompt-builder)](https://github.com/zsky-ai/zskyai-prompt-builder/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Try on ZSky AI](https://img.shields.io/badge/Try%20on-ZSky%20AI-blueviolet)](https://zsky.ai)
 
@@ -19,14 +19,16 @@ An interactive CLI prompt builder for AI image and short video generation. Gener
 
 ## Installation
 
+Install directly from GitHub:
+
 ```bash
-npm install -g zskyai-prompt-builder
+npm install -g github:zsky-ai/zskyai-prompt-builder
 ```
 
-Or run directly with npx:
+Or run without a global install:
 
 ```bash
-npx zskyai-prompt-builder
+npx github:zsky-ai/zskyai-prompt-builder
 ```
 
 ## Usage
